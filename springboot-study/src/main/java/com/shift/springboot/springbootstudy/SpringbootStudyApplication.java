@@ -1,4 +1,4 @@
-package com.shift.springboot.study.springbootstudy;
+package com.shift.springboot.springbootstudy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
